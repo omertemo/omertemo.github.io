@@ -1,55 +1,61 @@
-# My Express App
+# Ömer Çayır
 
-This project is a React application integrated with Tailwind CSS for styling. It serves as a template for building modern web applications using TypeScript.
+> Building reliable data systems, scalable APIs, and modern developer experiences.
 
-## Project Structure
+I’m a software engineer focused on backend, data engineering, and cloud-native solutions. I enjoy turning complex operational problems into clean, maintainable systems with measurable impact.
 
-```
-omertemo.github.io
-├── src
-│   ├── app.ts               # Main entry point of the React application
-│   ├── controllers          # Contains business logic and state management
-│   │   └── index.ts
-│   ├── routes               # Defines application routing
-│   │   └── index.ts
-│   └── types                # TypeScript interfaces and types
-│       └── index.ts
-├── package.json             # npm configuration file
-├── tsconfig.json            # TypeScript configuration file
-└── README.md                # Project documentation
-```
+## About Me
 
-## Getting Started
+- Software engineer with a strong interest in data pipelines, real-time processing, and platform engineering.
+- Experienced in Python, JavaScript, TypeScript, React, Node.js, and modern data stack tools.
+- Passionate about automation, observability, and building systems that help teams move faster and with more confidence.
 
-To get started with this project, follow these steps:
+## Current Focus
 
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd omertemo.github.io
-   ```
+- Data engineering and ETL/ELT workflows
+- Kafka, Spark, Airflow, Redis, PostgreSQL, and cloud-native infrastructure
+- Full-stack product development with React and Node.js
+- Developer experience, automation, and operational dashboards
 
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+## Tech Stack
 
-3. **Run the application:**
-   ```bash
-   npm start
-   ```
+### Languages
 
-## Usage
+Python • JavaScript • TypeScript • SQL • Bash
 
-- The main entry point is located in `src/app.ts`, where the React application is rendered.
-- Business logic can be managed in the `src/controllers/index.ts` file.
-- Routing is defined in `src/routes/index.ts`, linking components to specific paths.
-- Type definitions can be found in `src/types/index.ts`.
+### Data & Platform
 
-## Contributing
+Apache Kafka • Spark • Airflow • PostgreSQL • MongoDB • Redis • Docker • Kubernetes
 
-Feel free to submit issues or pull requests to improve the project. 
+### Frontend / App
 
-## License
+React • Next.js • Node.js • Tailwind CSS
 
-This project is licensed under the MIT License.
+## Featured Work
+
+- Real-time operational decision support systems for airport operations
+- End-to-end data integration and reporting pipelines
+- Cloud-native ETL modernization and platform migration
+- Full-stack interfaces for operational dashboards and business intelligence
+
+## Portfolio & Blog
+
+- Website: https://omertemo.github.io
+- LinkedIn: https://linkedin.com/in/omercayir01
+- GitHub: https://github.com/omertemo
+- Email: omercayirtemo@gmail.com
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omertemo&show_icons=true&theme=tokyonight)
+
+## Highlights
+
+- Data & backend engineering
+- Real-time processing and analytics
+- DevOps-friendly delivery workflows
+- Product-minded engineering
+
+## Contact
+
+If you want to collaborate, talk about data systems, or build something meaningful together, feel free to reach out.
